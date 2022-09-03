@@ -1,2 +1,2 @@
-file pertama
+Saya belajar git
 
